@@ -1,0 +1,30 @@
+body{
+    font: 20px arial serif;
+    
+}
+.nav-link{
+    font-size: 120%;
+}
+.navbar{
+    background-color:#363636;
+}
+.quem-somos{
+    background-color: #bababa;
+    color: whitesmoke;
+}
+.margin{
+    padding-bottom: 50px;
+    padding-top: 10px;
+}
+.parceiros{
+    background-color: #79777d;
+    color: whitesmoke;
+}
+.bg-footer{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-image: linear-gradient(to bottom, grey, #0c0e1f);
+    color: whitesmoke;
+}
+.teste{
+    background-color: ;
+}
